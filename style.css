@@ -1,6 +1,6 @@
 body {
-  background-color: #ffeedd;
-  color: #171A21;
+  background-color: hsl(30, 100%, 93%);
+  color: #171a21;
 }
 
 #corner-one {
@@ -8,71 +8,71 @@ body {
 }
 
 #div-one {
-  border-color: #617073;
-  border-style: solid;
+  border: 5px solid #171A21;
   padding: 15px;
-  border-width: 20%;
+  margin: auto;
+  margin-right: 800px;
 }
 
 #div-two {
-  border-color: #617073;
-  border-style: solid;
+  border: 5px solid #171A21;
   padding: 15px;
-  border-width: 20%;
+  margin: auto;
+  margin-right: 800px;
 }
 
 #div-three {
-  border-color: #617073;
-  border-style: solid;
+  border: 5px solid #171A21;
   padding: 15px;
-  border-width: 20%;
+  margin: auto;
+  margin-right: 800px;
 }
 
 #div-four {
-  border-color: #617073;
-  border-style: solid;
+  border: 5px solid #171A21;
   padding: 15px;
-  border-width: 20%;
+  margin: auto;
+  margin-right: 800px;
 }
 
 #div-five {
-  border-color: #617073;
-  border-style: solid;
+  border: 5px solid #171A21;
   padding: 15px;
-  border-width: 20%;
+  margin: auto;
+  margin-right: 800px;
 }
 
 #div-six {
-  border-color: #617073;
-  border-style: solid;
+  border: 5px solid #171A21;
   padding: 15px;
-  border-width: 20%;
+  margin: auto;
+  margin-right: 800px;
 }
 
 #div-seven {
-  border-color: #617073;
-  border-style: solid;
+  border: 5px solid #171A21;
   padding: 15px;
-  border-width: 20%;
+  margin: auto;
+  margin-right: 800px;
 }
 
 #div-eight {
-  border-color: #617073;
-  border-style: solid;
+  border: 5px solid #171A21;
   padding: 15px;
-  border-width: 20%;
+  margin: auto;
+  margin-right: 800px;
 }
 
 #div-nine {
-  border-color: #617073;
-  border-style: solid;
+  border: 5px solid #171A21;
   padding: 15px;
-  border-width: 20%;
+  margin: auto;
+  margin-right: 800px;
 }
 
 #div-ten {
-  border-color: #617073;
-  border-style: solid;
+  border: 5px solid #171A21;
   padding: 15px;
-  border-width: 20%;
+  margin: auto;
+  margin-right: 800px;
 }

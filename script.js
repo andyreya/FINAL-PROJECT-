@@ -24,7 +24,7 @@ let riddle8 = 0
 let riddle9 = 0
 let riddle10 = 0
 
-
+// Each function sets the condition for the input to be Correct
 function function1 () {
   riddle1 = document.getElementById('input-1').value
   if (riddle1 === 'A piano' || riddle1 === 'a piano' || riddle1 === 'piano' || riddle1 === 'Piano') {
@@ -63,7 +63,7 @@ function function4 () {
 
 function function5 () {
   riddle5 = document.getElementById('input-5').value
-  if (riddle5 === 'The dictionary' || riddle5 === 'the dictionary' || riddle5 === 'dictionary' || riddle5 === 'Dictionary' || riddle5 === 'A Dictionary'|| riddle5 === 'a dictionary') {
+  if (riddle5 === 'The dictionary' || riddle5 === 'the dictionary' || riddle5 === 'dictionary' || riddle5 === 'Dictionary' || riddle5 === 'A Dictionary' || riddle5 === 'a dictionary') {
     document.getElementById('answer-5').innerHTML = 'Correct'
   } else {
     document.getElementById('answer-5').innerHTML = 'Incorrect'
@@ -72,7 +72,7 @@ function function5 () {
 
 function function6 () {
   riddle6 = document.getElementById('input-6').value
-  if (riddle6 === 'A window' || riddle6 === 'a window' || riddle6 === 'window' || riddle6 === 'Window' || riddle6 === 'A Window'|| riddle6 === 'a window') {
+  if (riddle6 === 'A window' || riddle6 === 'a window' || riddle6 === 'window' || riddle6 === 'Window' || riddle6 === 'A Window' || riddle6 === 'a window') {
     document.getElementById('answer-6').innerHTML = 'Correct'
   } else {
     document.getElementById('answer-6').innerHTML = 'Incorrect'
@@ -81,7 +81,7 @@ function function6 () {
 
 function function7 () {
   riddle7 = document.getElementById('input-7').value
-  if (riddle7 === 'Seven' || riddle7 === 'Number seven' || riddle7 === 'number seven' || riddle7 === 'seven' || riddle7 === '7'|| riddle7 === '07') {
+  if (riddle7 === 'Seven' || riddle7 === 'Number seven' || riddle7 === 'number seven' || riddle7 === 'seven' || riddle7 === '7' || riddle7 === '07') {
     document.getElementById('answer-7').innerHTML = 'Correct'
   } else {
     document.getElementById('answer-7').innerHTML = 'Incorrect'
@@ -99,7 +99,7 @@ function function8 () {
 
 function function9 () {
   riddle9 = document.getElementById('input-9').value
-  if (riddle9 === 'A mirror' || riddle9 === 'a mirror' || riddle9 === 'Mirror' || riddle9 === 'mirror' || riddle9 === 'Mirrors'|| riddle9 === 'mirrors') {
+  if (riddle9 === 'A mirror' || riddle9 === 'a mirror' || riddle9 === 'Mirror' || riddle9 === 'mirror' || riddle9 === 'Mirrors' || riddle9 === 'mirrors') {
     document.getElementById('answer-9').innerHTML = 'Correct'
   } else {
     document.getElementById('answer-9').innerHTML = 'Incorrect'
@@ -108,7 +108,7 @@ function function9 () {
 
 function function10 () {
   riddle10 = document.getElementById('input-10').value
-  if (riddle10 === 'A coffin' || riddle10 === 'a coffin' || riddle10 === 'Coffin' || riddle10 === 'coffin' || riddle10 === 'Casket'|| riddle10 === 'casket') {
+  if (riddle10 === 'A coffin' || riddle10 === 'a coffin' || riddle10 === 'Coffin' || riddle10 === 'coffin' || riddle10 === 'Casket' || riddle10 === 'casket') {
     document.getElementById('answer-10').innerHTML = 'Correct'
   } else {
     document.getElementById('answer-10').innerHTML = 'Incorrect'
